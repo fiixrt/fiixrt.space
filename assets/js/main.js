@@ -10,5 +10,5 @@ $("input").keyup(function (e) {
 });
 
 $(".profil-logo").click(function () {
-  console.log("You clicked on logo !");
+  console.log("Le as dado click al logo!");
 });

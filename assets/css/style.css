@@ -310,7 +310,7 @@ html {
 
 }
 
-@media screen and (max-width: 1400px) {
+/* @media screen and (max-width: 1400px) {
   .card {
     width: 960px;
   zoom: 140%;
@@ -346,4 +346,4 @@ html {
 
 
   }
-}
+} */

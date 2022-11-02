@@ -12,3 +12,6 @@ $("input").keyup(function (e) {
 $(".profil-logo").click(function () {
   console.log("Le as dado click al logo!");
 });
+
+document.querySelector("#note").value = localStorage.getItem("Note");
+document.querySelector("#note").addEventListener("keyup", (e) => localStorage.setItem("Note", e.target.value));

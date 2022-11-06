@@ -1,1 +1,1 @@
-https://fiixrt.space
+fiixrt.space
